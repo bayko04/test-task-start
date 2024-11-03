@@ -68,7 +68,7 @@ const Profile = () => {
               <h3 className="font-[500] text-[20px] leading-[30px] text-[#000000]">
                 {fullName || "Alexa Rawles"}
               </h3>
-              <p className="font-[400] text-[16px] leading-[30px] text-[silver]">
+              <p className="font-[400] text-[16px] leading-[30px] text-[#808080]">
                 {email || "alexarawles@gmail.com"}
               </p>
             </div>

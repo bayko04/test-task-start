@@ -14,7 +14,7 @@ const ProfileSelect = ({ label = "Your First Name", handleChange, name }) => {
         <select
           onChange={handleChange}
           name={name}
-          class="bg-[#F9F9F9] rounded-[8px] h-[52px] w-[100%] py-[14px] px-[20px] block appearance-none w-full"
+          class="bg-[#F9F9F9] rounded-[8px] text-[#888] h-[52px] w-[100%] py-[14px] px-[20px] block appearance-none w-full"
         >
           <option value="0">Your First Name</option>
           <option value="1">Your Second Name</option>
